@@ -1,0 +1,6 @@
+	"chat.openai.com"
+	"chat.openai.com.cdn.cloudflare.net"
+	"nrt12s30-in-f4.1e100.net"
+	"static-ecst.licdn.com"
+	"cs1404.wpc.epsiloncdn.net"
+	"chatgpt.livekit.cloud"
